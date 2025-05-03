@@ -1,24 +1,63 @@
-<h1 align="center">Hello 👋, I'm Nouman</h1>
-<h3 align="center">A passionate Full-Stack Developer from Pakistan</h3>
+# 👋 Hi, I'm Nouman — Full Stack Developer (MERN)
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadnoumankhan01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nouman.younas.nyk@gmail.com) 
-
-# 💻 Tech Stack:
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)    ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Muhammad-Nouman-Khan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Muhammad-Nouman-Khan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Nouman-Khan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<h3 align="center">📈  My Contribution Graph</h3>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Nouman-Khan&hide_border=true&theme=react-dark&custom_title=Nouman's%27s+Contribution+Graph+%28Last+30+Days%29" />
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Muhammad-Nouman-Khan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm a passionate full stack developer who builds web apps using the MERN stack and beyond. I enjoy solving real-world problems with code, and learning new technologies.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Muhammad-Nouman-Khan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧰 Tech Stack
+
+### 🚀 Languages
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=fff" />
+</div>
+
+### 🎨 Frontend
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
+</div>
+
+### 🛠️ Backend & Database
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muhammad-Nouman-Khan&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Nouman-Khan&layout=compact&theme=radical)
+
+---
+
+## 🔥 GitHub Streaks & Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Nouman-Khan&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Nouman-Khan&theme=radical)](https://github.com/Muhammad-Nouman-Khan)
+
+---
+
+## 🧠 About Me
+
+- 🌱 Currently deepening my backend skills  
+- 🛠️ Building side projects to learn and grow  
+- 🚀 Open to freelance or collaborative dev opportunities
+- 🔥 Learning Python
+---
+
+## 📫 Connect with Me
+
+- 🌐 [Portfolio](https://nomportfolio.vercel.app/) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammadnoumankhan01)  
+- 📧 nouman.younas.nyk@gmail.com
+
+---

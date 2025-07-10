@@ -42,7 +42,7 @@ I'm a passionate full stack developer who builds web apps using the MERN stack a
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Muhammad-Nouman-Khan&theme=radical)](https://git.io/streak-stats)
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Nouman-Khan&theme=github)](https://github.com/Muhammad-Nouman-Khan)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Nouman-Khan&theme=react-dark)](https://github.com/Muhammad-Nouman-Khan)
 
 ---
 

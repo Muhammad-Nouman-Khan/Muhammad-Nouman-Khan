@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Nouman — Full Stack Developer (MERN)
+# 👋 Hi, I'm Nouman
 
-I'm a passionate full stack developer who builds web apps using the MERN stack and beyond. I enjoy solving real-world problems with code, and learning new technologies.
+I love building software that solves real problems. Whether it's crafting responsive user interfaces, developing scalable backend systems, or bringing ideas to life from scratch, I enjoy every part of the development process. With a strong focus on performance, usability, and clean architecture, I aim to create digital products that are both functional and meaningful.
 
 ---
 

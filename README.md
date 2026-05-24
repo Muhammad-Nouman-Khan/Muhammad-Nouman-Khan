@@ -16,16 +16,27 @@ I love building software that solves real problems. Whether it's crafting respon
 
 ### 🎨 Frontend
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
   <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Nuxt.js-00DC82?style=for-the-badge&logo=nuxt&logoColor=fff" />
+
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=fff" />
+
 </div>
 
 ### 🛠️ Backend & Database
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff" />
+
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff" />
+
 </div>
 
 ---
@@ -44,14 +55,6 @@ I love building software that solves real problems. Whether it's crafting respon
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Nouman-Khan&theme=react-dark)](https://github.com/Muhammad-Nouman-Khan)
 
----
-
-## 🧠 About Me
-
-- 🌱 Currently deepening my backend skills  
-- 🛠️ Building side projects to learn and grow  
-- 🚀 Open to freelance or collaborative dev opportunities
-- 🔥 Learning Python
 ---
 
 ## 📫 Connect with Me
